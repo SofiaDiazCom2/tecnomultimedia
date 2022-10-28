@@ -16,9 +16,9 @@
 
 //void colision(){
   //relacion de metodos con personaje
-  for(cantidad de hamburguesas){
-  hamburguesas[i].x;
-  hamburguesas[i].y
-  }
-  }
+  //for(cantidad de hamburguesas){
+ // hamburguesas[i].x;
+  //hamburguesas[i].y
+ // }
+ // }
   //}
