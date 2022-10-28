@@ -5,7 +5,7 @@
 //Propiedades
 
 //imagen
-//posX (-frameCount), posY, tam 
+//float(posiciones random), tam 
 
 //Metodos
 
@@ -14,4 +14,5 @@
 
 //void colisionar(){
   //relacion de metodos con personaje
+  
 //}
