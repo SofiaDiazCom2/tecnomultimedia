@@ -14,5 +14,8 @@
 
 //void colisionar(){
   //relacion de metodos con personaje
-  
+  //for(cantidad de hamburguesas){
+ // villanos[i].x;
+  //villanos[i].y
+ // }
 //}
