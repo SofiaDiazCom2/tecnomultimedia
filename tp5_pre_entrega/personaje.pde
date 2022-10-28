@@ -16,7 +16,7 @@
  //visualizo la imagen
 //}
 
-//void esquivarVillano(){
+//void esquivarVillano(){ //dentro del void keyPressed()
   //se mueve para evitar al villano
   //si no lo esquiva, pierde puntaje
   //si se encuentra con 3, pierde
